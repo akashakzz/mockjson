@@ -1,0 +1,20 @@
+[
+{
+"description": "",
+"name": "",
+"sku": "",
+"inStock": true,
+"price": {
+"originalAmount": { "value": 100, "currency": "INR" },
+"saleAmount": { "value": 60, "currency": "INR" }
+},
+"bestSeller": true,
+"spotlight": true,
+"weeklyDeal": true,
+"images": [
+{ "name": "", "resolution": "", "imageUrl": "", "type": "thumbnail"}
+],
+"store": { "id" : "", "name": "", "imageUrl": "" },
+"farmer": { "id" : "", "name": "", "imageUrl": "" }
+}
+]
